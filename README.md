@@ -6,9 +6,7 @@ This readme provides instructions on how to clone the repository, set up the .en
 
 Before running the Employee Api, ensure that you have the following installed on your system:
 
-- Java Development Kit (JDK) version 17 or higher
-- Maven build tool
-- A compatible servlet container (e.g., Apache Tomcat)
+- Node.js: You can download it from the official website: https://nodejs.org
 
 ## Getting Started
 
