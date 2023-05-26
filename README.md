@@ -4,13 +4,13 @@ This readme provides instructions on how to clone the repository, set up the .en
 
 ## Prerequisites
 
-Before running the Employee Api, ensure that you have the following installed on your system:
+Before running the Employee App, ensure that you have the following installed on your system:
 
 - Node.js: You can download it from the official website: https://nodejs.org
 
 ## Getting Started
 
-To run the Employee Api on your local machine, follow the steps below:
+To run the Employee App on your local machine, follow the steps below:
 
 1. Clone the project repository:
 ```
