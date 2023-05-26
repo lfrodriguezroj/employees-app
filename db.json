@@ -1,0 +1,3 @@
+{
+  "employees":{"status":"success","data":{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},"message":"Successfully! Record has been fetched."}
+}
